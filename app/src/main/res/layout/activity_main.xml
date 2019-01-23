@@ -18,7 +18,13 @@
         android:id="@+id/btn2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="behaviourTrace"
+        android:text="统计方法耗时"
+        />
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="按钮点击防抖"
         />
 
 </LinearLayout>
